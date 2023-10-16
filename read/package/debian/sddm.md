@@ -26,6 +26,14 @@ grand_parent: Package
 sudo apt-get install sddm
 ```
 
+在「Debian」的環境，可以執行下面指令，來選擇採用的「Display Manager」。
+
+``` sh
+dpkg-reconfigure sddm
+```
+
+> 可以參考「Debian Wiki / [SDDM](https://wiki.debian.org/SDDM#System-wide_configuration)」的說明。
+
 
 ## 檔案列表
 

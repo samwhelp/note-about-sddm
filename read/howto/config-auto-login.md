@@ -12,6 +12,7 @@ parent: 如何
 ## Reference
 
 * Arch Wiki / SDDM / [Autologin](https://wiki.archlinux.org/title/SDDM#Autologin)
+* Debian Wiki / SDDM / [Enable autologin](https://wiki.debian.org/SDDM#Enable_autologin)
 
 
 ## Manpage
