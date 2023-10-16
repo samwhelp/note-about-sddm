@@ -29,7 +29,7 @@ sudo apt-get install sddm
 
 ## 檔案列表
 
-執行下面指令，觀看「Package: sddm」有哪些[檔案](https://packages.debian.org/bookworm/amd64/kde-config-sddm/filelist)，安裝在系統上。
+執行下面指令，觀看「Package: sddm」有哪些[檔案](https://packages.debian.org/bookworm/amd64/sddm/filelist)，安裝在系統上。
 
 ``` sh
 dpkg -L sddm
