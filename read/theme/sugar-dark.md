@@ -9,6 +9,14 @@ parent: Theme
 # sugar-dark
 
 
+## Link
+
+| Sugar Dark |
+| --- |
+| [Source](https://github.com/MarianArlt/sddm-sugar-dark) |
+| [KDE Store](https://store.kde.org/p/1272122) |
+
+
 ## 預覽佈景主題
 
 執行下面指令，就可以預覽「sugar-dark」這個「SDDM Theme」。

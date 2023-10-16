@@ -9,6 +9,14 @@ parent: Theme
 # sugar-light
 
 
+## Link
+
+| Sugar Light |
+| --- |
+| [Source](https://github.com/MarianArlt/sddm-sugar-light) |
+| [KDE Store](https://store.kde.org/p/1272119) |
+
+
 ## 預覽佈景主題
 
 執行下面指令，就可以預覽「sugar-light」這個「SDDM Theme」。
