@@ -7,3 +7,8 @@ parent: Command
 
 
 # sddm-greeter
+
+
+## Manpage
+
+* [man 1 sddm-greeter](https://manpages.debian.org/stable/sddm/sddm-greeter.1.en.html)

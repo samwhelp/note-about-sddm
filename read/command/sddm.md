@@ -7,3 +7,8 @@ parent: Command
 
 
 # sddm
+
+
+## Manpage
+
+* [man 1 sddm](https://manpages.debian.org/stable/sddm/sddm.1.en.html)
