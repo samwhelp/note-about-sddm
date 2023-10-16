@@ -10,9 +10,26 @@ grand_parent: Package
 # sddm
 
 
+## 主題
+
+* [安裝指令](#安裝指令)
+* [檔案列表](#檔案列表)
+* [bin](#bin)
+* [man](#man)
+
+
+## 安裝指令
+
+執行下面指令，安裝「Package: [sddm](https://packages.debian.org/stable/sddm)」。
+
+``` sh
+sudo apt-get install sddm
+```
+
+
 ## 檔案列表
 
-執行下面指令，觀看「Package: sddm」有哪些檔案，安裝在系統上
+執行下面指令，觀看「Package: sddm」有哪些[檔案](https://packages.debian.org/bookworm/amd64/kde-config-sddm/filelist)，安裝在系統上。
 
 ``` sh
 dpkg -L sddm
