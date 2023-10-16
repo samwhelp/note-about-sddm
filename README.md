@@ -9,6 +9,7 @@
 
 * [如何](#如何)
 * [佈景主題](#佈景主題)
+* [Package](#package)
 * [Command](#command)
 * [Manpage](#manpage)
 * [相關筆記](#相關筆記)
@@ -25,6 +26,14 @@
 ## 佈景主題
 
 * KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
+
+
+# Package
+
+| [Debian](https://samwhelp.github.io/note-about-sddm/read/package/debian.html) | 探索 |
+| --- | --- |
+| [sddm](https://samwhelp.github.io/note-about-sddm/read/package/debian/sddm) | [探索](https://samwhelp.github.io/note-about-sddm/read/package/debian/sddm) |
+| [kde-config-sddm](https://packages.debian.org/stable/kde-config-sddm) | [探索](https://samwhelp.github.io/note-about-sddm/read/package/debian/kde-config-sddm) |
 
 
 ## Command
