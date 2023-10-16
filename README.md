@@ -5,14 +5,31 @@
 | [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm) |
 
 
-## SDDM / Themes
+## 主題
+
+* [如何](#如何)
+* [佈景主題](#佈景主題)
+* [Command](#command)
+* [Manpage](#manpage)
+* [相關筆記](#相關筆記)
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-sddm/read/howto.html) |
+| --- |
+| [SDDM 設定目前採用的佈景主題](https://samwhelp.github.io/note-about-sddm/read/howto/config-current-theme.html) |
+| [SDDM 設定自動登入](https://samwhelp.github.io/note-about-sddm/read/howto/config-auto-login.html) |
+
+
+## 佈景主題
 
 * KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
 
 
 ## Command
 
-| Command |
+| [Command](https://samwhelp.github.io/note-about-sddm/read/command.html) |
 | --- |
 | [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html) |
 | [sddm-greeter](https://samwhelp.github.io/note-about-sddm/read/command/sddm-greeter.html) |
