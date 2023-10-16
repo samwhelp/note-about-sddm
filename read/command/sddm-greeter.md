@@ -71,3 +71,5 @@ sugar-light
 ``` sh
 sddm-greeter --test-mode --theme /usr/share/sddm/themes/sugar-candy
 ```
+
+* Arch Wiki / SDDM / [Testing (previewing) a theme](https://wiki.archlinux.org/title/SDDM#Testing_(previewing)_a_theme)
