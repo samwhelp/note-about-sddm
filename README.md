@@ -32,7 +32,7 @@
 
 | [Debian](https://samwhelp.github.io/note-about-sddm/read/package/debian.html) | 探索 |
 | --- | --- |
-| [sddm](https://samwhelp.github.io/note-about-sddm/read/package/debian/sddm) | [探索](https://samwhelp.github.io/note-about-sddm/read/package/debian/sddm) |
+| [sddm](https://packages.debian.org/stable/sddm) | [探索](https://samwhelp.github.io/note-about-sddm/read/package/debian/sddm) |
 | [kde-config-sddm](https://packages.debian.org/stable/kde-config-sddm) | [探索](https://samwhelp.github.io/note-about-sddm/read/package/debian/kde-config-sddm) |
 
 
