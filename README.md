@@ -10,6 +10,13 @@
 * KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
 
 
+## Command
+
+| --- |
+| [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html) |
+| [sddm-greeter](https://samwhelp.github.io/note-about-sddm/read/command/sddm-greeter.html) |
+
+
 ## Manpage
 
 * [man 1 sddm](https://manpages.debian.org/stable/sddm/sddm.1.en.html)
