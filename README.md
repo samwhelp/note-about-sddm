@@ -10,6 +10,13 @@
 * KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
 
 
+## Manpage
+
+* [man 1 sddm](https://manpages.debian.org/stable/sddm/sddm.1.en.html)
+* [man 1 sddm-greeter](https://manpages.debian.org/stable/sddm/sddm-greeter.1.en.html)
+* [man 5 sddm.conf](https://manpages.debian.org/stable/sddm/sddm.conf.5.en.html)
+* [man 5 sddm-state.conf](https://manpages.debian.org/stable/sddm/sddm-state.conf.5.en.html)
+
 
 ## 相關筆記
 
