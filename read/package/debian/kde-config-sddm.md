@@ -272,3 +272,8 @@ Exec=systemsettings kcm_sddm
 ```
 
 也就是可以在「Terminal」執行「`systemsettings kcm_sddm`」。
+
+
+## Link
+
+* GitHub / KDE / [sddm-kcm](https://github.com/KDE/sddm-kcm)

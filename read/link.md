@@ -10,7 +10,8 @@ has_children: false
 
 ## SDDM
 
-* GitHub / [sddm](https://github.com/sddm/sddm)
+* GitHub / sddm / [sddm](https://github.com/sddm/sddm)
+* GitHub / KDE / [sddm-kcm](https://github.com/KDE/sddm-kcm)
 
 
 ## SDDM / Themes
