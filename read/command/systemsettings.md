@@ -77,3 +77,4 @@ systemsettings kcm_sddm
 ## Link
 
 * Debian Package / [kde-config-sddm](https://samwhelp.github.io/note-about-sddm/read/package/debian/kde-config-sddm.html#applications)
+* KDE 探索筆記 / [systemsettings](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-systemsettings/systemsettings.html)
