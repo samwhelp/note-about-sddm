@@ -18,6 +18,16 @@ grand_parent: Package
 * [man](#man)
 
 
+## Debian Wiki
+
+* [SDDM](https://wiki.debian.org/SDDM)
+
+
+## Debian Package
+
+* [sddm](https://packages.debian.org/stable/sddm)
+
+
 ## 安裝指令
 
 執行下面指令，安裝「Package: [sddm](https://packages.debian.org/stable/sddm)」。
