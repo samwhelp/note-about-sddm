@@ -15,8 +15,8 @@ has_children: true
 
 ## 不用依賴「KDE」的「SDDM Theme」
 
-| Home | KDE Store |
+| SDDM Theme | Source | KDE Store |
 | --- | --- | --- |
-| [sugar-candy](theme/sugar-candy) | [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) | [KDE Store](https://store.kde.org/p/1312658) |
-| [sugar-dark](theme/sugar-dark) | [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark) | [KDE Store](https://store.kde.org/p/1272122) |
-| [sugar-light](theme/sugar-light) | [Sugar Light](https://github.com/MarianArlt/sddm-sugar-light) | [KDE Store](https://store.kde.org/p/1272119) |
+| [sugar-candy](https://samwhelp.github.io/note-about-sddm/read/theme/sugar-candy.html) | [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) | [KDE Store](https://store.kde.org/p/1312658) |
+| [sugar-dark](https://samwhelp.github.io/note-about-sddm/read/theme/sugar-dark.html) | [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark) | [KDE Store](https://store.kde.org/p/1272122) |
+| [sugar-light](https://samwhelp.github.io/note-about-sddm/read/theme/sugar-light.html) | [Sugar Light](https://github.com/MarianArlt/sddm-sugar-light) | [KDE Store](https://store.kde.org/p/1272119) |
