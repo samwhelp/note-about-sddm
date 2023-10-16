@@ -15,7 +15,7 @@ grand_parent: Package
 * [安裝指令](#安裝指令)
 * [檔案列表](#檔案列表)
 * [bin](#bin)
-* [man](#man)
+* [applications](#applications)
 
 
 ## 安裝指令
