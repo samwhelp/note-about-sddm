@@ -1,6 +1,6 @@
 ---
 title: SDDM 設定自動登入
-nav_order: 8020
+nav_order: 8010
 has_children: false
 parent: 如何
 ---
