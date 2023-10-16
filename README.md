@@ -78,7 +78,7 @@
 | /usr/share/sddm/themes    | Where sddm looks for themes                |
 
 
-| Files / `systemsettings kcm_sddm` |
+| Files / [systemsettings kcm_sddm](https://samwhelp.github.io/note-about-sddm/read/command/systemsettings.html) |
 | --- |
 | /etc/sddm.conf.d/kde_settings.conf |
 | /usr/share/sddm/themes/{some_theme}/theme.conf.user |

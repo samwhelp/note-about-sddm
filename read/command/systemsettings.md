@@ -1,6 +1,6 @@
 ---
 title: systemsettings
-nav_order: 8010
+nav_order: 8030
 has_children: false
 parent: Command
 ---
