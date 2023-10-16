@@ -18,3 +18,26 @@ parent: 如何
 
 * [man 1 sddm](https://manpages.debian.org/stable/sddm/sddm.1.en.html)
 * [man 5 sddm.conf](https://manpages.debian.org/stable/sddm/sddm.conf.5.en.html)
+
+
+## 設定片段
+
+* /etc/sddm.conf.d/kde_settings.conf
+
+> Auto Login
+
+``` ini
+[Autologin]
+Relogin=false
+Session=plasma
+User=sam
+```
+
+> Mot Auto Login
+
+``` ini
+[Autologin]
+Relogin=false
+Session=plasma
+User=
+```
