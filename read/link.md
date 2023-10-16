@@ -13,6 +13,11 @@ has_children: true
 * GitHub / [sddm](https://github.com/sddm/sddm)
 
 
+## SDDM / Themes
+
+* KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
