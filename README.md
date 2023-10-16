@@ -20,10 +20,24 @@
 
 ## Manpage
 
-* [man 1 sddm](https://manpages.debian.org/stable/sddm/sddm.1.en.html)
-* [man 1 sddm-greeter](https://manpages.debian.org/stable/sddm/sddm-greeter.1.en.html)
-* [man 5 sddm.conf](https://manpages.debian.org/stable/sddm/sddm.conf.5.en.html)
-* [man 5 sddm-state.conf](https://manpages.debian.org/stable/sddm/sddm-state.conf.5.en.html)
+| Manpage |
+| --- |
+| [man 1 sddm](https://manpages.debian.org/stable/sddm/sddm.1.en.html) |
+| [man 1 sddm-greeter](https://manpages.debian.org/stable/sddm/sddm-greeter.1.en.html) |
+| [man 5 sddm.conf](https://manpages.debian.org/stable/sddm/sddm.conf.5.en.html) |
+| [man 5 sddm-state.conf](https://manpages.debian.org/stable/sddm/sddm-state.conf.5.en.html) |
+
+
+## Files
+
+| Files |
+| ------------------------- | ------------------------------------------ |
+| /usr/lib/sddm/sddm.conf.d | System configuration directory             |
+| /etc/sddm.conf.d          | Local configuration directory              |
+| /etc/sddm.conf            | Local configuration file for compatibility |
+| /usr/share/sddm/themes    | Where sddm looks for themes                |
+
+
 
 
 ## 相關筆記
