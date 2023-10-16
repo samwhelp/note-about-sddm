@@ -12,6 +12,7 @@
 * [Package](#package)
 * [Command](#command)
 * [Manpage](#manpage)
+* [Files](#files)
 * [相關筆記](#相關筆記)
 
 
@@ -77,6 +78,10 @@
 | /usr/share/sddm/themes    | Where sddm looks for themes                |
 
 
+| Files / `systemsettings kcm_sddm` |
+| --- |
+| /etc/sddm.conf.d/kde_settings.conf |
+| /usr/share/sddm/themes/{some_theme}/theme.conf.user |
 
 
 ## 相關筆記
