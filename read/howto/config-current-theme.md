@@ -31,3 +31,15 @@ Current=Graphite
 ```
 
 > 上面這個「Graphite」指的是「/usr/share/sddm/themes/Graphite」。
+
+
+## 預覽佈景主題
+
+如何預覽「SDDM」的「佈景主題」
+
+可以參考「 ddm-greeter / [預覽佈景主題](https://samwhelp.github.io/note-about-sddm/read/command/sddm-greeter.html#%E9%A0%90%E8%A6%BD%E4%BD%88%E6%99%AF%E4%B8%BB%E9%A1%8C)」的用法。
+
+
+``` sh
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/Graphite
+```
