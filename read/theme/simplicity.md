@@ -26,7 +26,7 @@ parent: Theme
 執行下面指令，就可以預覽「simplicity」這個「SDDM Theme」。
 
 ``` sh
-sddm-greeter --test-mode --theme /usr/share/sddm/themes/simplicity-sddm-theme
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/simplicity
 ```
 
 * Arch Wiki / SDDM / [Testing (previewing) a theme](https://wiki.archlinux.org/title/SDDM#Testing_(previewing)_a_theme)
