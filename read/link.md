@@ -8,10 +8,14 @@ has_children: false
 # 連結
 
 
+
+
 ## SDDM
 
 * GitHub / sddm / [sddm](https://github.com/sddm/sddm)
 * GitHub / KDE / [sddm-kcm](https://github.com/KDE/sddm-kcm)
+
+
 
 
 ## SDDM / Themes
@@ -19,15 +23,21 @@ has_children: false
 * KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
 
 
+
+
 ## Arch Wiki
 
 * [SDDM](https://wiki.archlinux.org/title/SDDM)
+
+
 
 
 ## Debian Wiki
 
 * [SDDM](https://wiki.debian.org/SDDM)
 * [DisplayManager](https://wiki.debian.org/DisplayManager)
+
+
 
 
 ## Just the Docs
