@@ -8,10 +8,21 @@ parent: 如何
 
 # SDDM 更改某個佈景主題的背景圖片
 
+* [Reference](#reference)
+* [Manpage](#manpage)
+* [前提](#前提)
+* [設定片段](#設定片段)
+* [預覽佈景主題](#預覽佈景主題)
+* [圖形介面程式操作](#圖形介面程式操作)
+
+
+
 
 ## Reference
 
 * Arch Wiki / SDDM / [Customizing a theme](https://wiki.archlinux.org/title/SDDM#Customizing_a_theme)
+
+
 
 
 ## Manpage
@@ -21,15 +32,19 @@ parent: 如何
 * [man 1 sddm-greeter](https://manpages.debian.org/stable/sddm/sddm-greeter.1.en.html)
 
 
+
+
 ## 前提
 
-* 以「/usr/share/sddm/themes/sugar-candy」這個「SDDM Theme」來舉例。
+* 以「[/usr/share/sddm/themes/maldives](https://github.com/sddm/sddm/tree/develop/data/themes/maldives)」這個「SDDM Theme」來舉例。
 * 假設要更改成「/usr/share/backgrounds/default-login.jpg」這張圖片。
+
+
 
 
 ## 設定片段
 
-* /usr/share/sddm/themes/sugar-candy/theme.conf.user
+* 設定檔：「`/usr/share/sddm/themes/maldives/theme.conf.user`」
 
 ``` ini
 [General]
@@ -50,6 +65,7 @@ type=image
 ```
 
 
+
 ## 預覽佈景主題
 
 如何預覽「SDDM」的「佈景主題」
@@ -58,8 +74,10 @@ type=image
 
 
 ``` sh
-sddm-greeter --test-mode --theme /usr/share/sddm/themes/sugar-candy
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/maldives
 ```
+
+
 
 
 ## 圖形介面程式操作
