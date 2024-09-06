@@ -27,10 +27,10 @@ parent: 如何
 
 ``` ini
 [Theme]
-Current=Graphite
+Current=maya
 ```
 
-> 上面這個「Graphite」指的是「/usr/share/sddm/themes/Graphite」。
+> 上面這個「Graphite」指的是「/usr/share/sddm/themes/maya」。
 
 
 ## 預覽佈景主題
@@ -41,7 +41,7 @@ Current=Graphite
 
 
 ``` sh
-sddm-greeter --test-mode --theme /usr/share/sddm/themes/Graphite
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/maya
 ```
 
 

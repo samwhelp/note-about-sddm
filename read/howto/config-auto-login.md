@@ -34,7 +34,7 @@ Session=plasma
 User=sam
 ```
 
-> Mot Auto Login
+> Not Auto Login
 
 ``` ini
 [Autologin]
