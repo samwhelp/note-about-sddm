@@ -36,6 +36,14 @@
 
 ## 佈景主題
 
+> SDDM [自帶的佈景主題](https://github.com/sddm/sddm/tree/develop/data/themes)
+
+| [SDDM Theme](https://samwhelp.github.io/note-about-sddm/read/theme.html) |
+| [maya](https://github.com/sddm/sddm/tree/develop/data/themes/maya) |
+| [maldives](https://github.com/sddm/sddm/tree/develop/data/themes/maldives) |
+| [elarun](https://github.com/sddm/sddm/tree/develop/data/themes/elarun) |
+
+
 * KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
 
 
