@@ -38,7 +38,7 @@
 
 > SDDM [自帶的佈景主題](https://github.com/sddm/sddm/tree/develop/data/themes)
 
-| [SDDM Theme](https://samwhelp.github.io/note-about-sddm/read/theme.html) |
+| SDDM Theme |
 | [maya](https://github.com/sddm/sddm/tree/develop/data/themes/maya) |
 | [maldives](https://github.com/sddm/sddm/tree/develop/data/themes/maldives) |
 | [elarun](https://github.com/sddm/sddm/tree/develop/data/themes/elarun) |
