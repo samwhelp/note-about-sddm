@@ -2,7 +2,12 @@
 
 # 首頁
 
+| Link | GitHub |
+| ---- | ------ |
+| [SDDM Adjustment](https://samwhelp.github.io/sddm-adjustment/) | [GitHub](https://github.com/samwhelp/sddm-adjustment) |
 | [SDDM 探索筆記](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm) |
+
+
 
 
 ## 主題
@@ -16,6 +21,8 @@
 * [相關筆記](#相關筆記)
 
 
+
+
 ## 如何
 
 | [如何](https://samwhelp.github.io/note-about-sddm/read/howto.html) |
@@ -23,6 +30,7 @@
 | [SDDM 設定自動登入](https://samwhelp.github.io/note-about-sddm/read/howto/config-auto-login.html) |
 | [SDDM 設定目前採用的佈景主題](https://samwhelp.github.io/note-about-sddm/read/howto/config-current-theme.html) |
 | [SDDM 更改某個佈景主題的背景圖片](https://samwhelp.github.io/note-about-sddm/read/howto/custom-theme-background.html) |
+
 
 
 
@@ -36,6 +44,8 @@
 | [sugar-candy](https://samwhelp.github.io/note-about-sddm/read/theme/sugar-candy.html) | [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) | [KDE Store](https://store.kde.org/p/1312658) |
 | [sugar-dark](https://samwhelp.github.io/note-about-sddm/read/theme/sugar-dark.html) | [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark) | [KDE Store](https://store.kde.org/p/1272122) |
 | [sugar-light](https://samwhelp.github.io/note-about-sddm/read/theme/sugar-light.html) | [Sugar Light](https://github.com/MarianArlt/sddm-sugar-light) | [KDE Store](https://store.kde.org/p/1272119) |
+
+
 
 
 ## Package
@@ -52,12 +62,16 @@
 | [sddm-kcm](https://archlinux.org/packages/extra/x86_64/sddm-kcm/) | [探索](https://samwhelp.github.io/note-about-sddm/read/package/archlinux/sddm-kcm.html) |
 
 
+
+
 ## Command
 
 | [Command](https://samwhelp.github.io/note-about-sddm/read/command.html) |
 | --- |
 | [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html) |
 | [sddm-greeter](https://samwhelp.github.io/note-about-sddm/read/command/sddm-greeter.html) |
+
+
 
 
 ## Manpage
@@ -70,9 +84,11 @@
 | [man 5 sddm-state.conf](https://manpages.debian.org/stable/sddm/sddm-state.conf.5.en.html) |
 
 
+
+
 ## Files
 
-| Files |
+| Files                     |                                            |
 | ------------------------- | ------------------------------------------ |
 | /usr/lib/sddm/sddm.conf.d | System configuration directory             |
 | /etc/sddm.conf.d          | Local configuration directory              |
@@ -86,11 +102,18 @@
 | /usr/share/sddm/themes/{some_theme}/theme.conf.user |
 
 
+
+
 ## 相關筆記
 
-* [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) ([GitHub](https://github.com/samwhelp/note-about-kde/))
+| Link | GitHub |
+| ---- | ------ |
+| [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde/) |
+| [LightDM 探索筆記](https://samwhelp.github.io/note-about-lightdm/) | [GitHub](https://github.com/samwhelp/note-about-lightdm) |
 
 
-## samwhelp
+
+
+## Samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
