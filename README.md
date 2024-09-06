@@ -108,8 +108,8 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde/) |
 | [LightDM 探索筆記](https://samwhelp.github.io/note-about-lightdm/) | [GitHub](https://github.com/samwhelp/note-about-lightdm) |
+| [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde/) |
 
 
 
