@@ -9,10 +9,15 @@ parent: 如何
 # SDDM 設定目前採用的佈景主題
 
 
+
+
+## 主題
+
 * [Reference](#reference)
 * [Manpage](#manpage)
 * [設定片段](#設定片段)
 * [預覽佈景主題](#預覽佈景主題)
+* [圖形介面程式操作](#圖形介面程式操作)
 
 
 
@@ -20,6 +25,7 @@ parent: 如何
 ## Reference
 
 * Arch Wiki / SDDM / [Current theme](https://wiki.archlinux.org/title/SDDM#Current_theme)
+* Command / [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html)
 
 
 

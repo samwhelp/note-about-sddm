@@ -11,9 +11,20 @@ parent: 如何
 
 
 
+## 主題
+
+* [Reference](#reference)
+* [Manpage](#manpage)
+* [設定預設值](#設定預設值)
+* [設定片段](#設定片段)
+
+
+
+
 ## Reference
 
 * Arch Wiki / SDDM / [Numlock](https://wiki.archlinux.org/title/SDDM#Numlock)
+* Command / [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html)
 
 
 

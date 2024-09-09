@@ -8,6 +8,11 @@ parent: 如何
 
 # SDDM 更改某個佈景主題的背景圖片
 
+
+
+
+## 主題
+
 * [Reference](#reference)
 * [Manpage](#manpage)
 * [前提](#前提)
@@ -21,6 +26,7 @@ parent: 如何
 ## Reference
 
 * Arch Wiki / SDDM / [Customizing a theme](https://wiki.archlinux.org/title/SDDM#Customizing_a_theme)
+* Command / [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html)
 
 
 
