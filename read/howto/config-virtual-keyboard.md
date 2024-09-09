@@ -26,12 +26,14 @@ parent: 如何
 * [man 5 sddm.conf](https://manpages.debian.org/stable/sddm/sddm.conf.5.en.html)
 
 
+
+
 ## 設定預設值
 
 執行
 
 ``` sh
-sddm --example-config | grep -i 'InputMethod' -B 1 -A 1
+sddm --example-config | grep -i '^InputMethod=' -B 1 -A 1
 ```
 
 顯示
