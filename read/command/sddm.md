@@ -45,7 +45,7 @@ sddm --example-config
 
 顯示
 
-```
+``` ini
 [Autologin]
 # Whether sddm should automatically log back into sessions when they exit
 Relogin=false
