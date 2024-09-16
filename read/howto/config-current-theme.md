@@ -48,7 +48,7 @@ parent: 如何
 Current=maya
 ```
 
-> 上面這個「Graphite」指的是「[/usr/share/sddm/themes/maya](https://github.com/sddm/sddm/tree/develop/data/themes/maya)」。
+> 上面這個「`maya`」指的是「[/usr/share/sddm/themes/maya](https://github.com/sddm/sddm/tree/develop/data/themes/maya)」。
 
 
 
