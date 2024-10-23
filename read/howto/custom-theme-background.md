@@ -19,6 +19,7 @@ parent: 如何
 * [設定片段](#設定片段)
 * [預覽佈景主題](#預覽佈景主題)
 * [圖形介面程式操作](#圖形介面程式操作)
+* [額外探索紀錄](#額外探索紀錄)
 
 
 
@@ -26,6 +27,7 @@ parent: 如何
 ## Reference
 
 * Arch Wiki / SDDM / [Customizing a theme](https://wiki.archlinux.org/title/SDDM#Customizing_a_theme)
+* SDDM Wiki / Theming / [Theme Configuration](https://github.com/sddm/sddm/wiki/Theming#theme-configuration)
 * Command / [sddm](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html)
 
 
@@ -55,7 +57,6 @@ parent: 如何
 ``` ini
 [General]
 background=/usr/share/backgrounds/default-login.jpg
-type=image
 ```
 
 上面的圖片路徑「/usr/share/backgrounds/default-login.jpg」是「絕對路徑」。
@@ -67,7 +68,6 @@ type=image
 ``` ini
 [General]
 background=default-login.jpg
-type=image
 ```
 
 
@@ -89,3 +89,35 @@ sddm-greeter --test-mode --theme /usr/share/sddm/themes/maldives
 ## 圖形介面程式操作
 
 若是在「KDE Plasma」的環境，也可以透過「圖形介面程式 ([systemsettings kcm_sddm](https://samwhelp.github.io/note-about-sddm/read/command/systemsettings.html))」來操作「更改某個 SDDM 佈景主題的背景圖片」。
+
+
+
+
+## 額外探索紀錄
+
+可以在「maldives / [Main.qml](https://github.com/sddm/sddm/blob/develop/data/themes/maldives/Main.qml#L58-L68)」，看到有一段程式碼片段如下
+
+
+``` cpp
+    Background {
+        anchors.fill: parent
+        source: Qt.resolvedUrl(config.background)
+        fillMode: Image.PreserveAspectCrop
+        onStatusChanged: {
+            var defaultBackground = Qt.resolvedUrl(config.defaultBackground)
+            if (status == Image.Error && source != defaultBackground) {
+                source = defaultBackground
+            }
+        }
+    }
+```
+
+> 其中有一行「`source: Qt.resolvedUrl(config.background)`」。
+
+
+> 對照「maldives / [theme.conf](https://github.com/sddm/sddm/blob/develop/data/themes/maldives/theme.conf#L1-L2)」
+
+``` ini
+[General]
+background=background.jpg
+```
