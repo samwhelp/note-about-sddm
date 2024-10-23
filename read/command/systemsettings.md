@@ -78,3 +78,4 @@ systemsettings kcm_sddm
 
 * Debian Package / [kde-config-sddm](https://samwhelp.github.io/note-about-sddm/read/package/debian/kde-config-sddm.html#applications)
 * KDE 探索筆記 / [systemsettings](https://samwhelp.github.io/note-about-kde/read/subject/util/kde-systemsettings/systemsettings.html)
+* Github / KDE / sddm-kcm / src / [themesmodel.cpp](https://github.com/KDE/sddm-kcm/blob/master/src/themesmodel.cpp#L183-L195)

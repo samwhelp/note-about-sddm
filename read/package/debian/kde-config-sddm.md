@@ -10,12 +10,16 @@ grand_parent: Package
 # kde-config-sddm
 
 
+
+
 ## 主題
 
 * [安裝指令](#安裝指令)
 * [檔案列表](#檔案列表)
 * [bin](#bin)
 * [applications](#applications)
+
+
 
 
 ## 安裝指令
@@ -25,6 +29,9 @@ grand_parent: Package
 ``` sh
 sudo apt-get install kde-config-sddm
 ```
+
+
+
 
 ## 檔案列表
 
@@ -228,6 +235,8 @@ dpkg -L kde-config-sddm
 ```
 
 
+
+
 ## bin
 
 執行下面指令，找出相關的指令
@@ -242,6 +251,8 @@ dpkg -L kde-config-sddm | grep bin
 /usr/bin
 /usr/bin/sddmthemeinstaller
 ```
+
+
 
 
 ## applications
@@ -274,6 +285,9 @@ Exec=systemsettings kcm_sddm
 也就是可以在「Terminal」執行「`systemsettings kcm_sddm`」。
 
 
+
+
 ## Link
 
 * GitHub / KDE / [sddm-kcm](https://github.com/KDE/sddm-kcm)
+* Github / KDE / sddm-kcm / src / [themesmodel.cpp](https://github.com/KDE/sddm-kcm/blob/master/src/themesmodel.cpp#L183-L195)
